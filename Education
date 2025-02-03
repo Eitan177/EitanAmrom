@@ -32,4 +32,41 @@ Tools for interpreting molecular pathology
 Databases for interpreting molecular pathology
 
 
+AO Additions
+Introduction to data flows - from creation to final desination
+Appropriate and inappropriate use of data
+Follow data from Epic/Cerner to data warehouse
+Asking a data question
+Concept of data quality
+Data Storytelling
+Data management, organization, files
 
+Databases
+Concept of data model
+Concept of data granularity
+Basic SQL
+Intermediate SQL
+
+Excel
+
+
+R
+Analysis in R: Modules
+Reproducibility
+Tidy Data
+Introduction to R
+Visualizing Data
+Transforming Data With dplyr	
+
+Exploratory Data Analysis
+
+Summary Statistics in R
+Null Hypothesis/Significance Testing	
+Statistical Tests
+
+Directories and File Paths
+Reshaping Data in R: Long and Wide Data	
+Missing Values in R
+
+ML
+Basics Machine Learning	
