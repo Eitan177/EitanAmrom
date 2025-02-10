@@ -15,9 +15,9 @@ This repository contains Jupyter notebooks and tools focused on molecular data a
 ## Notebook Catalog
 | Notebook | Description | Colab |
 |----------|-------------|-------|
-| **GUI_Conversion** | Convert Python scripts into interactive desktop applications | [![Open][colab-badge]](link) |
-| **MolecularViz** | 3D visualization toolkit for biomolecular structures | [![Open][colab-badge]](link) |
-| **PathoDataRep** | Standardized data representations for pathology reports | [![Open][colab-badge]](link) |
-| **ClinicalInterpret** | ML-powered interpretation tools for molecular diagnostics | [![Open][colab-badge]](link) |
+| **Chekc Contamination** | Using a 'Master File' of Variants On Multiple Specimens, Determine If Any Specimens Seem Contaminated | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eitan177/EitanAmrom/blob/main/find_matching_snp_betweensamples_onarun.ipynb) |
+| **MAF2BAF** | Convert an MAF to a BAF for visualizing b-allele frequency in IGV | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eitan177/EitanAmrom/blob/main/makebaf_bedgraphfile.ipynb) |
+| **Variant Table to Bed File** | Process a table of variants to a bed formatted file |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eitan177/EitanAmrom/blob/main/makingbedfilefromlargetableofvariants.ipynb) |
+| **A Streamlit GUI to Visualize B-allele frequency** | Make a streamlit app and run from colab |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eitan177/EitanAmrom/blob/main/plot_baf.ipynb) |
+| **Gnomad Match and plot** | Plot gnomad frequencies to check concordnace with known information |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eitan177/EitanAmrom/blob/main/test_ethnicity_using_gnomad_af.ipynb) |
 
-## Installation
