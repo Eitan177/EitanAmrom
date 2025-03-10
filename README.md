@@ -5,7 +5,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eitan177/EitanAmrom/)
 
 ## Overview
-This repository contains Jupyter notebooks and tools focused on molecular pathology analysis, visualization, and interpretation.
+This repository contains Jupyter notebooks focused on molecular pathology analysis, visualization, and interpretation.
 ![Pathologist Data Scientist](https://github.com/Eitan177/EitanAmrom/blob/main/pathologist_datascientist.jpeg)
 ## Notebook Catalog
 | Notebook | Description | Colab |
